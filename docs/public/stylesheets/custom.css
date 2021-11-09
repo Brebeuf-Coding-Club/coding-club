@@ -23,3 +23,9 @@
   font-size: 28px;
   color: #241023;
 }
+
+
+#brand-image {
+  max-width: 100%;
+  max-height: 100%;
+}
